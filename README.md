@@ -1,8 +1,8 @@
 # Employee Management System Solution
 
-Links das Aulas: <br>
-Aula 01 => https://www.youtube.com/watch?v=pFrUhAI6RW0&t=12s <br>
-Aula 02 => https://www.youtube.com/watch?v=TDV-yt5N9UY <br>
+Links das Playlist => https://www.youtube.com/watch?v=TDV-yt5N9UY&list=PL285LgYq_FoLogDUntSWNiKlj5SNV1x-4&index=3&t=385s
 
 - .NET 8
-- Blazor
+- Blazor (Client)
+- API (Server)
+- Entity Framework
